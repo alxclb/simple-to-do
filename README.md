@@ -1,6 +1,6 @@
-## Simple ToDo 
+## Simple To-Do 
 
-### ToDo List in React.js with Recoil state management library.
+### To-Do List in React.js with Recoil state management library.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
